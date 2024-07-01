@@ -1,0 +1,80 @@
+.text{
+    margin-top: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textarea{
+    height: 30vh;
+    width: 150vh;
+}
+.btn-btn-primary1{
+    margin-left: 30vh;
+    margin-top: 2vh;
+    height: 5vh;
+    color: white;
+    background-color: cadetblue;
+    border: 2px solid cadetblue;
+    border-radius: 50px;
+    transition-property: background-color, color;
+    transition: 0.2s;
+
+}
+.btn-btn-primary1:hover{
+    color: black;
+    background-color: transparent;
+}
+.btn-btn-primary2{
+    margin-left: 5vh;
+    margin-top: 2vh;
+    height: 5vh;
+    color: white;
+    background-color: cadetblue;
+    border: 2px solid cadetblue;
+    border-radius: 50px;
+    transition-property: background-color, color;
+    transition: 0.2s;
+    
+
+}
+.btn-btn-primary2:hover{
+    color: black;
+    background-color: transparent;
+}
+#summary{
+    margin-left: 170px;
+    margin-top: 10px;
+}
+#result{
+    margin-left: 170px;
+    margin-top: 10px;
+}
+#length{
+    margin-left: 186px;
+    margin-top: 10px;
+}
+.btn-btn-primary3{
+    margin-left: 6vh;
+    margin-top: 2vh;
+    height: 5vh;
+    color: white;
+    background-color: cadetblue;
+    border: 2px solid cadetblue;
+    border-radius: 50px;
+    transition-property: background-color, color;
+    transition: 0.2s;
+}
+.btn-btn-primary3:hover{
+    color: black;
+    background-color: transparent;
+}
+
+#flexSwitchCheckDefault{
+    margin-right:  1060px;
+    
+}
+#label1{
+    margin-left: 95px;
+    
+    
+}

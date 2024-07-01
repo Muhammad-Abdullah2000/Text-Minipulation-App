@@ -1,0 +1,33 @@
+#home{
+ 
+  
+    font-weight: bold;
+    
+}
+#nav{
+
+  
+    font-weight: bold;
+    
+}
+.navbar-brand{
+ 
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: #0d6efd;
+    transition: 0.2s;
+}
+#heading{
+    margin-left: 240px;
+    margin-top: -290px;
+  
+    width: 500px;
+    
+}
+#floatingInput{
+   
+    margin-left: -818px;
+    border: none;
+    border: 1px solid rgb(168, 166, 166);
+}
